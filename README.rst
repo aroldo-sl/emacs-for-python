@@ -3,7 +3,7 @@ Emacs for Python
 
 A modular Emacs configuration for Python developers.
 
-Some background
+Some Background
 ---------------
 
 In a workshop during the PythonCamp 2011 in Cologne we've collected
@@ -12,6 +12,17 @@ Emacs.
 
 Currently the ideas are available in an Etherpad:
 http://openetherpad.org/pycamp-emacs
+
+
+Getting Started
+---------------
+
+If you just want to test this Emacs configuration, run
+
+.. sourcecode:: bash
+
+  $ emacs -Q -l emacs-sample.el
+
 
 Contact
 -------
